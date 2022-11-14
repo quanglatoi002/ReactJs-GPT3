@@ -1,0 +1,13 @@
+.gpt3__cta {
+    background: var(--gradient-text);
+    padding: 40px;
+}
+
+.gpt3__cta-heading {
+}
+
+@media screen and (max-width: 740px) {
+    .gpt3__cta {
+        padding: 20px;
+    }
+}

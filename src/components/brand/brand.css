@@ -1,0 +1,15 @@
+.gpt3__band {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 46px;
+}
+
+.gpt3__band div {
+    flex: 1;
+    max-width: 150px;
+    min-width: 120px;
+    display: flex;
+    justify-content: center;
+}
