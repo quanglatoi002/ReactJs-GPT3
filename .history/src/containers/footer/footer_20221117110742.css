@@ -1,0 +1,5 @@
+.gpt3__footer {
+    background: var(--color-footer);
+    display: flex;
+    flex-direction: column;
+}
